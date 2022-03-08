@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 08/03/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 a:inteiro
 b:inteiro
@@ -10,24 +10,24 @@ c:inteiro
 nome:caractere
 
 inicio
-// Seção de Comandos
-escreval("Olá!!!")
+// SeÃ§Ã£o de Comandos
+escreval("OlÃ¡!!!")
 escreval("Digite seu nome:")
 leia(nome)
 escreval("Bem-vindo ", nome)
-escreval("Atribua um valor para a variável A:")
+escreval("Atribua um valor para a variÃ¡vel A:")
 leia(a)
-escreval("Agora atribua um valor para a variável B:")
+escreval("Agora atribua um valor para a variÃ¡vel B:")
 leia(b)
-escreval("Valores Originais das Variáveis")
-escreval("Valor da Variável A ==>",a)
-escreval("Valor da Variável B ==>",b)
+escreval("Valores Originais das VariÃ¡veis")
+escreval("Valor da VariÃ¡vel A ==>",a)
+escreval("Valor da VariÃ¡vel B ==>",b)
 escreval("--------------------------------------------")
 c <- a
 a <- b
 b <- c
 escreval("Resultado da Troca de Valores")
-escreval("Valor da Variável A ==>",a)
-escreval("Valor da Variável B ==>",b)
+escreval("Valor da VariÃ¡vel A ==>",a)
+escreval("Valor da VariÃ¡vel B ==>",b)
 fimalgoritmo
-fimalgoritmo
+

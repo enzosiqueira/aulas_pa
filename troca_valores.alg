@@ -1,5 +1,5 @@
 algoritmo "Trocar Valores"
-// Função : Troca valores de duas variáveis
+// Função : Trocar valores de duas variáveis
 // Autor : Enzo Siqueira
 // Data : 08/03/2022
 // Seção de Declarações 

@@ -1,4 +1,4 @@
-# aulas_pa
+# AULAS PA
 Repositório para as aulas de Programação e Algoritmos
 
 ## Exercicio Calculo de Taxa Alfandega no Scratch

@@ -1,0 +1,13 @@
+Algoritmo "A soma do quadrado de quatro numeros"
+  Entre com um valor para N1
+  Entre com um valor para N2
+  Entre com um valor para N3
+  Entre com um valor para N4
+  Faça RESULTADO = n1*n1 + n2*n2 + n3*n3 + n4*n4
+  Mostre RESULTADO
+Fimalgoritmo
+
+Teste de Mesa
+N1	N2	N3	N4	RESULTADO
+1	2	3	4	30
+2	5	10	20	529

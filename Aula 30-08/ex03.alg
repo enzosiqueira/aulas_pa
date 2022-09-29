@@ -1,16 +1,16 @@
 algoritmo "exercicio-03"
-// Função :
+// FunÃ§Ã£o :
 // Autor : Enzo Siqueira
 // Data : 13/09/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 numero: inteiro
 contador: inteiro
 resultado: real
 
 inicio
-// Seção de Comandos
-escreval("Digite um número: ")
+// SeÃ§Ã£o de Comandos
+escreval("Digite um nÃºmero: ")
 leia(numero)
 resultado <- 0
 
@@ -18,5 +18,5 @@ para contador de 1 ate numero faca
   resultado <- resultado + 1/contador
 fimpara
 
-escreval(resultado)
+escreval("O resultado Ã©: ",resultado)
 fimalgoritmo
